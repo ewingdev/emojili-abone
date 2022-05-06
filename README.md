@@ -4,7 +4,7 @@
 ## Kurulum
 
 - 1. `./bot.js` dosyasında ayarlarınızı yapın
-- 2. terminali açın `npm i` ve sonra `node.'
+- 2. terminali açın `npm i` ve sonra `node.`
 
 ## Altyapı sahibi:
 
